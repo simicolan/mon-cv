@@ -1,4 +1,3 @@
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
 # Mon CV
 
 ## Présentation
@@ -12,13 +11,13 @@ Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **Administration Systè
 
 ## Formation
 
-  	*
+  	
 -**En cour** : **Wild code School**</br>
 Administrateur système et réaux cloud
 	
 -**15/06/2024-27/07/2024** : **Konexio** </br>
-*Passerelle initiation à la cybersécurité </br>
-( Elesticserche, Kibana, putty, CCNA)
+Passerelle initiation à la cybersécurité </br>
+( <i>Elesticserche, Kibana, putty, CCNA</i>)
 	
 	
 -**2023-2024** : **Université Sorbonne Paris Nord**</br>
