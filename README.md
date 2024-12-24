@@ -21,24 +21,24 @@ Passerelle initiation à la cybersécurité </br>
 	
 	
 -**2023-2024** : **Université Sorbonne Paris Nord**</br>
-*Licence 1 informatique </br>
-(Element informatique (Langague C)</br>
-(Initiation à l'envirenement Unix)</br>
+Licence 1 informatique </br>
+(<i>Element informatique (Langague C</i>)</br>
+(<i>Initiation à l'envirenement Unix</i>)</br>
 
  	
 -**2022-2023** : **Université Panthéon Sorbonne Paris 1**</br>
-*Certificat de niveau B2 en Français
+Certificat de niveau B2 en Français
 
  	
 -**2020-05/2021** : **Université de Kaboul**</br>
-*Licence 1, 2 informatique</br>
-(Programming fundamental (Java) )</br>
-(Computer Network (Switch, router))</br>
- Database concepts
+Licence 1, 2 informatique</br>
+(<i>Programming fundamental (Java</i>) )</br>
+(<i>Computer Network (Switch, router)</i>)</br>
+ <i>Database concepts</i>
 
 	
 -**2018** : **Lycée Shohada Hecha**</br>
-*Bac général
+--Bac général--
 
 ## Expériance professionnelle
  
