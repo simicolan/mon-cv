@@ -7,8 +7,7 @@ Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **<ins>Administration S
 - **Email** : zarafshanrezaie2000@gmail.com  
 - **LinkedIn** :(https://linkedin.com/in/zarafshan-rezaie-77b607317)
 - **GitHub** :[ [github.com/zarafshanrezaie](https://github.com/zarafshanrezaie)  ](https://github.com/simicolan)
--![[Photo de profil](https://via.placeholder.com/150 "Zarafshan Rezaie"](https://avatars.githubusercontent.com/u/75810206?s=400&u=02912f1d1a36a0028f371c5f9989c49e09efd731&v=4))  ](https://avatars.githubusercontent.com/u/75810206?s=400&u=971a80e7482f964ad7d1a2f3e6f5eba9b6a16959&v=4)](https://avatars.githubusercontent.com/u/75810206?s=400&u=971a80e7482f964ad7d1a2f3e6f5eba9b6a16959&v=4)](https://avatars.githubusercontent.com/u/75810206?s=400&u=971a80e7482f964ad7d1a2f3e6f5eba9b6a16959&v=4)](https://avatars.githubusercontent.com/u/75810206?s=400&u=971a80e7482f964ad7d1a2f3e6f5eba9b6a16959&v=4)
-
+- ![[Photo de profil](https://via.placeholder.com/150 "Jean Dupont") ](https://avatars.githubusercontent.com/u/75810206?s=96&v=4) 
 
 ## Formation
 
