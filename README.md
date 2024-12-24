@@ -1,9 +1,9 @@
 # Mon CV
-<div style = "background-color: lightblue; padding: 10px; border-radius: 5px;">
-	>
 
-Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **Administration Système et Réseaux Cloud** à la Wild Code School. Passionné par les systèmes et réseaux, je suis actuellement à la recherche d'une alternance pour obtenir mon diplôme et mettre en pratique mes compétences techniques. Mon objectif est de contribuer à des projets innovants tout en développant mon expertise dans les environnements cloud et la gestion des infrastructures IT.
-</div>
+## Presentation
+
+Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **Administration Système et Réseaux Cloud** à la **Wild Code School**. Passionné par les systèmes et réseaux, je suis actuellement à la recherche d'une alternance pour obtenir mon diplôme et mettre en pratique mes compétences techniques. Mon objectif est de contribuer à des projets innovants tout en développant mon expertise dans les environnements cloud et la gestion des infrastructures IT.
+
 - **Email** : zarafshan.rezaie@example.com  
 - **LinkedIn** :(https://linkedin.com/in/zarafshan-rezaie-77b607317)
 - **GitHub** :[ [github.com/zarafshanrezaie](https://github.com/zarafshanrezaie)  ](https://github.com/simicolan)
@@ -53,14 +53,14 @@ Persan : Langue maternelle</br>
 Anglais : A2</br>
 Français : B2</br>
 
-*Informatique : Maîtrise de Package Office </br>
-(Word, Exel, Powerpoint) </br> 
-Connaisance en langague(C, Java)</br>
-HTML, CSS, JavaScript
+**Informatique** : Maîtrise de Package Office </br>
+_(Word, Exel, Powerpoint)_ </br> 
+_Connaisance en langague(C, Java)_</br>
+_HTML, CSS, JavaScript_
 	 		
 
 ## Centre d'intérêt 
-Dessin (Portrait)</br>
+Dessin (_Portrait_)</br>
 Fitness</br>
 Drama Coréen</br>
  
