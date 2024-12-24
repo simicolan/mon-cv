@@ -16,7 +16,7 @@ Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **Administration Systè
 Administrateur système et réaux cloud
 	
 -**15/06/2024-27/07/2024** : **Konexio**
-*Passerelle initiation à la cybersécurité
+*Passerelle initiation à la cybersécurité </br>
 ( Elesticserche, Kibana, putty, CCNA)
 	
 	
