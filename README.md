@@ -1,9 +1,9 @@
 # Mon CV
-
-## Présentation
 <div style = "background-color: lightblue; padding: 10px; border-radius: 5px;">
-Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **Administration Système et Réseaux Cloud** à la Wild Code School. Passionné par les systèmes et réseaux, je suis actuellement à la recherche d'une alternance pour obtenir mon diplôme et mettre en pratique mes compétences techniques. Mon objectif est de contribuer à des projets innovants tout en développant mon expertise dans les environnements cloud et la gestion des infrastructures IT.</div>
+	>
 
+Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **Administration Système et Réseaux Cloud** à la Wild Code School. Passionné par les systèmes et réseaux, je suis actuellement à la recherche d'une alternance pour obtenir mon diplôme et mettre en pratique mes compétences techniques. Mon objectif est de contribuer à des projets innovants tout en développant mon expertise dans les environnements cloud et la gestion des infrastructures IT.
+</div>
 - **Email** : zarafshan.rezaie@example.com  
 - **LinkedIn** :(https://linkedin.com/in/zarafshan-rezaie-77b607317)
 - **GitHub** :[ [github.com/zarafshanrezaie](https://github.com/zarafshanrezaie)  ](https://github.com/simicolan)
