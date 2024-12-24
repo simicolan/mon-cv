@@ -4,7 +4,7 @@
 
 Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **Administration Système et Réseaux Cloud** à la **Wild Code School**. Passionné par les systèmes et réseaux, je suis actuellement à la recherche d'une alternance pour obtenir mon diplôme et mettre en pratique mes compétences techniques. Mon objectif est de contribuer à des projets innovants tout en développant mon expertise dans les environnements cloud et la gestion des infrastructures IT.
 
-- **Email** : zarafshan.rezaie@example.com  
+- **Email** : zarafshanrezaie2000@gmail.com  
 - **LinkedIn** :(https://linkedin.com/in/zarafshan-rezaie-77b607317)
 - **GitHub** :[ [github.com/zarafshanrezaie](https://github.com/zarafshanrezaie)  ](https://github.com/simicolan)
 - ![[Photo de profil](https://via.placeholder.com/150 "Zarafshan Rezaie"](https://avatars.githubusercontent.com/u/75810206?s=400&u=02912f1d1a36a0028f371c5f9989c49e09efd731&v=4))  
