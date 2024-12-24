@@ -39,7 +39,7 @@ Licence 1, 2 informatique</br>
 
 	
 -**2018** : **Lycée Shohada Hecha**</br>
---Bac général--
+Bac général
 
 ## Expériance professionnelle
  
