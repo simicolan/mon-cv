@@ -1,3 +1,4 @@
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 # Mon CV
 
 ## Présentation
@@ -12,54 +13,54 @@ Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **Administration Systè
 ## Formation
 
   	*
--**En cour** : **Wild code School**
+-**En cour** : **Wild code School**</br>
 Administrateur système et réaux cloud
 	
--**15/06/2024-27/07/2024** : **Konexio**
+-**15/06/2024-27/07/2024** : **Konexio** </br>
 *Passerelle initiation à la cybersécurité </br>
 ( Elesticserche, Kibana, putty, CCNA)
 	
 	
--**2023-2024** : **Université Sorbonne Paris Nord**
-*Licence 1 informatique
-(Element informatique (Langague C)
-(Initiation à l'envirenement Unix)
+-**2023-2024** : **Université Sorbonne Paris Nord**</br>
+*Licence 1 informatique </br>
+(Element informatique (Langague C)</br>
+(Initiation à l'envirenement Unix)</br>
 
  	
--**2022-2023** : **Université Panthéon Sorbonne Paris 1**
+-**2022-2023** : **Université Panthéon Sorbonne Paris 1**</br>
 *Certificat de niveau B2 en Français
 
  	
--**2020-05/2021** : **Université de Kaboul**
-*Licence 1, 2 informatique
-(Programming fundamental (Java) )
-(Computer Network (Switch, router))
+-**2020-05/2021** : **Université de Kaboul**</br>
+*Licence 1, 2 informatique</br>
+(Programming fundamental (Java) )</br>
+(Computer Network (Switch, router))</br>
  Database concepts
 
 	
--**2018** : **Lycée Shohada Hecha**
+-**2018** : **Lycée Shohada Hecha**</br>
 *Bac général
 
 ## Expériance professionnelle
  
- -**2019-2020** : **Institutrice à l'école élémentaire Omide-Sabz**
-Cours de math
-Cours de langue Perse (Dari)
-Cours de dessin
+ -**2019-2020** : **Institutrice à l'école élémentaire Omide-Sabz**</br>
+Cours de math</br>
+Cours de langue Perse (Dari)</br>
+Cours de dessin</br>
 
-## Langues étranger & compétance informatique
-Persan : Langue maternelle
-Anglais : A2
-Français : B2
+## Langues étranger & compétance informatique</br>
+Persan : Langue maternelle</br>
+Anglais : A2</br>
+Français : B2</br>
 
-*Informatique : Maîtrise de Package Office 
-(Word, Exel, Powerpoint), 
-Connaisance en langague(C, Java)
+*Informatique : Maîtrise de Package Office </br>
+(Word, Exel, Powerpoint) </br> 
+Connaisance en langague(C, Java)</br>
 HTML, CSS, JavaScript
 	 		
 
 ## Centre d'intérêt 
-Dessin (Portrait)
-Fitness
-Drama Coréen
+Dessin (Portrait)</br>
+Fitness</br>
+Drama Coréen</br>
  
