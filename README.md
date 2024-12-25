@@ -7,6 +7,8 @@ Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **<ins>Administration S
 - **Email** : zarafshanrezaie2000@gmail.com  
 - **LinkedIn** :(https://linkedin.com/in/zarafshan-rezaie-77b607317)
 - **GitHub** :[ [github.com/zarafshanrezaie](https://github.com/zarafshanrezaie)  ](https://github.com/simicolan)
+- **Tel** : 0758720742
+- **Adress** : 79 rue d'hautpoul, 75019 Paris
 - ![[Photo de profil](https://via.placeholder.com/150 "Jean Dupont") ](https://avatars.githubusercontent.com/u/75810206?s=96&v=4) 
 
 ## Formation
