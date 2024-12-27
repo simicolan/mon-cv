@@ -13,7 +13,7 @@
 
 ## Presentation
 
-Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **<ins>Administration Système et Réseaux Cloud</ins>** à la **Wild Code School**. Passionné par les systèmes et réseaux, je suis actuellement à la recherche d'une alternance pour obtenir mon diplôme et mettre en pratique mes compétences techniques. Mon objectif est de contribuer à des projets innovants tout en développant mon expertise dans les environnements cloud et la gestion des infrastructures IT.
+Actuellement en formation **d'Administrateur Système et Réseaux Cloud** à la **Wild Code School**, je suis à la recherche d'une alternance en tant que **Technicien Système et Réseau**.
 
 ## Formation
 
