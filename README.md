@@ -1,15 +1,19 @@
 # Mon CV
 
+# Zarafshan REZAIE
+
+- **Adress 79 rue d'hautpoul, 75019 Paris** 
+- **0758720742** 
+- **zarafshanrezaie2000@gmail.com** 
+- **LinkedIn** :(https://linkedin.com/in/zarafshan-rezaie-77b607317)
+- **GitHub** :[ [github.com/zarafshanrezaie](https://github.com/zarafshanrezaie)  ](https://github.com/simicolan)
+
+- ![[Photo de profil](https://via.placeholder.com/150 "Jean Dupont") ](https://avatars.githubusercontent.com/u/75810206?s=96&v=4) 
+
+
 ## Presentation
 
 Bonjour, je m'appelle **Zarafshan REZAIE**, étudiant en **<ins>Administration Système et Réseaux Cloud</ins>** à la **Wild Code School**. Passionné par les systèmes et réseaux, je suis actuellement à la recherche d'une alternance pour obtenir mon diplôme et mettre en pratique mes compétences techniques. Mon objectif est de contribuer à des projets innovants tout en développant mon expertise dans les environnements cloud et la gestion des infrastructures IT.
-
-- **Email** : zarafshanrezaie2000@gmail.com  
-- **LinkedIn** :(https://linkedin.com/in/zarafshan-rezaie-77b607317)
-- **GitHub** :[ [github.com/zarafshanrezaie](https://github.com/zarafshanrezaie)  ](https://github.com/simicolan)
-- **Tel** : 0758720742
-- **Adress** : 79 rue d'hautpoul, 75019 Paris
-- ![[Photo de profil](https://via.placeholder.com/150 "Jean Dupont") ](https://avatars.githubusercontent.com/u/75810206?s=96&v=4) 
 
 ## Formation
 
