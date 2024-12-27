@@ -1,4 +1,3 @@
-# Mon CV
 
 # Zarafshan REZAIE
 
